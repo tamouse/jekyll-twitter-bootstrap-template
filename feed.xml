@@ -4,10 +4,10 @@
     <title>My Awesome Jekyll Site with Twitter Bootstrap</title>
     <description>Just some stuff, you know?
 </description>
-    <link>https://me.github.io/</link>
-    <atom:link href="https://me.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 26 Nov 2014 17:11:47 -0600</pubDate>
-    <lastBuildDate>Wed, 26 Nov 2014 17:11:47 -0600</lastBuildDate>
+    <link>https://me.github.io/jekyll-twitter-bootstrap-template//</link>
+    <atom:link href="https://me.github.io/jekyll-twitter-bootstrap-template//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 26 Nov 2014 17:14:42 -0600</pubDate>
+    <lastBuildDate>Wed, 26 Nov 2014 17:14:42 -0600</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -15,8 +15,8 @@
         <description>
 </description>
         <pubDate>Wed, 26 Nov 2014 13:44:00 -0600</pubDate>
-        <link>https://me.github.io/jekyll/2014/11/26/another-test/</link>
-        <guid isPermaLink="true">https://me.github.io/jekyll/2014/11/26/another-test/</guid>
+        <link>https://me.github.io/jekyll-twitter-bootstrap-template//jekyll/2014/11/26/another-test/</link>
+        <guid isPermaLink="true">https://me.github.io/jekyll-twitter-bootstrap-template//jekyll/2014/11/26/another-test/</guid>
         
         <category>test</category>
         
@@ -50,11 +50,11 @@ reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
 pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
 culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/test_pattern.png&quot; alt=&quot;&quot; class=&quot;fancy-img&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/jekyll-twitter-bootstrap-template//images/test_pattern.png&quot; alt=&quot;&quot; class=&quot;fancy-img&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 26 Nov 2014 10:55:00 -0600</pubDate>
-        <link>https://me.github.io/intro/2014/11/26/this-is-a-test-post/</link>
-        <guid isPermaLink="true">https://me.github.io/intro/2014/11/26/this-is-a-test-post/</guid>
+        <link>https://me.github.io/jekyll-twitter-bootstrap-template//intro/2014/11/26/this-is-a-test-post/</link>
+        <guid isPermaLink="true">https://me.github.io/jekyll-twitter-bootstrap-template//intro/2014/11/26/this-is-a-test-post/</guid>
         
         
         <category>intro</category>
