@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: <%= @layout %>
 title: "<%= @title %>"
-# navbar: true # uncomment to have this page appear in the site nav bar
+date: <%= Time.now.strftime("%Y-%m-%d %H:%M") %>
+# navbar: true # uncomment if this page should appear in the navigation bar
 ---

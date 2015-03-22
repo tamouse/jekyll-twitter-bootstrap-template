@@ -1,6 +1,12 @@
 ---
 ---
 
+// 14px might work for *you*, but I like it a little bigger, please
+$font-size-base: 18px !default;
+
+// There are a lot of things to change if you use a different colour scheme
+// @import "color-scheme";
+
 @import "bootstrap";
 @import "font-awesome";
 @import "sticky-footer";
