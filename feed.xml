@@ -6,13 +6,17 @@
 </description>
     <link>https://me.github.io/jekyll-twitter-bootstrap-template/</link>
     <atom:link href="https://me.github.io/jekyll-twitter-bootstrap-template/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 26 Nov 2014 17:33:57 -0600</pubDate>
-    <lastBuildDate>Wed, 26 Nov 2014 17:33:57 -0600</lastBuildDate>
-    <generator>Jekyll v2.4.0</generator>
+    <pubDate>Sun, 22 Mar 2015 06:17:33 -0500</pubDate>
+    <lastBuildDate>Sun, 22 Mar 2015 06:17:33 -0500</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>another test</title>
-        <description>
+        <description>&lt;h2 id=&quot;lorem-ipsum-dolor-sit-amet-consectetuer-adipiscing-elit&quot;&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.  Aenean in
+sem ac leo mollis blandit.  Donec hendrerit tempor tellus.
+Pellentesque tristique imperdiet tortor.&lt;/p&gt;
 </description>
         <pubDate>Wed, 26 Nov 2014 13:44:00 -0600</pubDate>
         <link>https://me.github.io/jekyll-twitter-bootstrap-template/jekyll/2014/11/26/another-test/</link>

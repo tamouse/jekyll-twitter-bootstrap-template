@@ -2,31 +2,35 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>https://me.github.io/intro/2014/11/26/this-is-a-test-post/</loc>
-        <lastmod>2014-11-26T12:16:47-06:00</lastmod>
+        <lastmod>2015-03-22T00:41:41-05:00</lastmod>
     </url>
     <url>
         <loc>https://me.github.io/jekyll/2014/11/26/another-test/</loc>
-        <lastmod>2014-11-26T13:44:35-06:00</lastmod>
+        <lastmod>2015-03-22T00:41:41-05:00</lastmod>
     </url>
     <url>
-        <loc>https://me.github.io/about/</loc>
-        <lastmod>2014-11-26T11:45:24-06:00</lastmod>
-    </url>
-    <url>
-        <loc>https://me.github.io/colophon/</loc>
+        <loc>https://me.github.io/categories/</loc>
         <lastmod>2014-11-26T11:45:24-06:00</lastmod>
     </url>
     <url>
         <loc>https://me.github.io/</loc>
-        <lastmod>2014-11-26T13:44:35-06:00</lastmod>
+        <lastmod>2015-03-22T00:30:35-05:00</lastmod>
+    </url>
+    <url>
+        <loc>https://me.github.io/pages/styleguide/</loc>
+        <lastmod>2015-03-22T00:08:52-05:00</lastmod>
     </url>
     <url>
         <loc>https://me.github.io/tags/</loc>
         <lastmod>2014-11-26T11:45:24-06:00</lastmod>
     </url>
     <url>
-        <loc>https://me.github.io/categories/</loc>
-        <lastmod>2014-11-26T11:45:24-06:00</lastmod>
+        <loc>https://me.github.io/pages/colophon/</loc>
+        <lastmod>2015-03-21T23:58:57-05:00</lastmod>
+    </url>
+    <url>
+        <loc>https://me.github.io/about/</loc>
+        <lastmod>2015-03-21T23:58:57-05:00</lastmod>
     </url>
     <url>
         <loc>https://me.github.io/pages/</loc>
@@ -34,6 +38,6 @@
     </url>
     <url>
         <loc>https://me.github.io/css/styles.css</loc>
-        <lastmod>2014-11-26T12:21:04-06:00</lastmod>
+        <lastmod>2015-03-22T00:12:45-05:00</lastmod>
     </url>
 </urlset>
